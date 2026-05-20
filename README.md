@@ -6,7 +6,7 @@
 
 ## 🚀 Projects
 
-### 🔹 Stock Trading Platform
+### 🔹 Aartha_Mantra
 
 * Full-stack MERN application for managing trades and portfolio
 * Responsive dashboard built with Material UI
